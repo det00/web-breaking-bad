@@ -123,3 +123,20 @@ td {
     width: 100%;
     height: auto;
 }
+
+
+
+.form {
+    position: relative;
+    left: 10%;
+    font-size: 14px;
+    margin: auto;
+    display: block;
+}
+
+#fset {
+    display: block;
+    margin-left: 35%;
+    margin-right: 35%;
+    margin-top: 5%;
+}
