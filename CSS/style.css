@@ -1,0 +1,125 @@
+@font-face {
+    font-family: "Breaking Bad";
+    src: url("/font/BreakingBad.ttf");
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+#logo {
+    width: 200px;
+    height: 200px;
+}
+
+.bdn {
+    background-image: url(/img/fondo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#bdtab {
+    background-color: #0c3e11;
+}
+
+#post {
+    width: 700px;
+    height: 300px;
+    border-width: 10px;
+    border-style: outset;
+    border-color: brown;
+    border-radius: 22px;
+}
+
+#title {
+    color: white;
+    font-family: Breaking Bad;
+    font-size: 40px;
+    font-weight: normal;
+}
+
+
+
+#table1 {
+    background-color: #2b2c24;
+    text-align: center;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0;
+}
+
+#table2 {
+    background-color: #2b2c24;
+    font-size: 25px;
+
+
+}
+
+p {
+    font-size: 10px;
+    vertical-align: bottom;
+}
+
+
+tr,
+td {
+    Border: 3px solid #2b2c24;
+    border-style: solid;
+    width: 73px;
+    height: 68px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0;
+}
+
+.g1 {
+    background-color: #b8db1d;
+}
+
+.g2 {
+    background-color: #c5e24b;
+}
+
+.g3 {
+    background-color: #eff7c8;
+}
+
+.g4 {
+    background-color: #89a419;
+}
+
+.g5 {
+    background-color: #63702a;
+}
+
+.g6 {
+    background-color: #bcc49d;
+}
+
+.g7 {
+    background-color: #828e50;
+}
+
+.g8 {
+    background-color: #d3e582;
+}
+
+#marie {
+    background-color: #ab8ecd;
+}
+
+.t2 {
+    background-color: #c2c62a;
+    text-align: center;
+}
+
+.img2 {
+    height: 40px;
+}
+
+#ha {
+    display: block;
+    width: 100%;
+    height: auto;
+}
