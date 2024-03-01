@@ -146,9 +146,8 @@ td {
 }
 
 #fset2 {
-    display: block;
-    margin-left: 36%;
-    margin-right: 10%;
+    /*margin-left: 36%;
+    margin-right: 10%;*/
     margin-top: 5%;
     border-radius: 15px;
     background-color: #FFFFFF80;
